@@ -262,8 +262,8 @@ st.markdown("---")
 st.markdown(
     "<p style='text-align:center;color:rgba(255,255,255,0.3);font-size:0.78rem'>"
     "Built by Vinayak Kumar · "
-    "<a href='https://github.com/21f1006600' style='color:#ffcd42'>GitHub</a> · "
-    <a href='https://www.kaggle.com/code/vinayakkumar23/21f1006600-notebook-t32023/notebook' style='color:#ffcd42'>Kaggle Notebook</a> · "
+    "<a href='https://github.com/21f1006600/taxi-fare-predictor' style='color:#ffcd42'>GitHub</a> · "
+    "<a href='https://www.kaggle.com/code/vinayakkumar23/21f1006600-notebook-t32023/notebook' style='color:#ffcd42'>Kaggle Notebook</a> · "
     "<a href='https://www.linkedin.com/in/vinayak-kumar-48378753/' style='color:#ffcd42'>LinkedIn</a>"
     "</p>",
     unsafe_allow_html=True
